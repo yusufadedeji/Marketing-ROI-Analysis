@@ -25,15 +25,16 @@ The analysis was performed using Python, pandas, seaborn, matplotlib, and statsm
 * Matplotlib
 * Seaborn
 * Statsmodels
+* Scikit-learn
 
 ---
 
 ## Files Included
 
-* ROI Analysis.pdf
-* Marketing ROI (2).csv
+* regression_analysis.ipynb
+* marketing_data.csv
 * README.md
-* Marketing ROI Analysis.ipynb
+* requirements.txt
 
 ---
 
