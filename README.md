@@ -30,7 +30,7 @@ The analysis was performed using Python, pandas, seaborn, matplotlib, and statsm
 
 ## Files Included
 
-* Marketing ROI Task.pdf
+* ROI Analysis.pdf
 * Marketing ROI (2).csv
 * README.md
 * Marketing ROI Analysis.ipynb
